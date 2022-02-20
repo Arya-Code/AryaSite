@@ -1,2 +1,2 @@
-# AryaSite
-AryaSite
+# AryaProfile
+A Profile Site
