@@ -16,8 +16,8 @@ Ryu:
       
 Arya:
   name        : "Arya"
-  bio         : "Just a normal student who what be a god."
-  avatar      : "/assets/images/buffarya.png"
+  bio         : "Just a normal student."
+  avatar      : "/assets/images/MclarenP1.jpg"
   location: Iran-Nashapour
   links:
     - label: "Email"
