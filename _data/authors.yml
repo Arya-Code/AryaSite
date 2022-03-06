@@ -1,19 +1,3 @@
-Ryu:
-  name        : "Ryu"
-  bio         : "I am a Fighter not developer."
-  avatar      : "/assets/images/Ryu.jpg"
-  location: Japen
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:Sonei363@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
-      
 Arya:
   name        : "Arya"
   bio         : "Just a normal student."
@@ -44,3 +28,31 @@ Arya:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://twitter.com/extravagantman"
+      
+      
+Prof.Mousavi:
+  name        : "Prof.Mousavi"
+  bio         : "???"
+  avatar      : "/assets/images/Prof.Mousavi.jpg"
+  location:  Azad University of Neyshabur,Iran
+
+  links:
+    - label: "ali.mooosavi@yahoo.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ali.mooosavi@yahoo.com"
+    - label: "mousavi@iau-neyshabur.ac.ir "
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mousavi@iau-neyshabur.ac.ir "
+    - label: "+98 9153128944"
+      icon: "fas fa-fw fa-solid fa-phone"
+      url: ""
+    - label: "Home Page"
+      icon: "fas fa-fw fa-solid fa-paperclip"
+      url: "https://www.iau-neyshabur.ac.ir/sp-102155"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-solid fa-paperclip"
+      url: "https://scholar.google.com/citations?user=2fUj0F4AAAAJ&hl=en
+
+"
+ 
+      

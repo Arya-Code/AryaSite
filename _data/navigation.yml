@@ -1,11 +1,11 @@
 main:
   - title: "Publication"
     url: /publication/
-  - title: "Software"
-    url: /Software/
+  - title: "Projects"
+    url: /Projects/
   - title: "Teaching"
     url: /Teaching/
-  - title: "Personal"
-    url: /Personal/
+  - title: "Experiences"
+    url: /Experiences/
   - title: "External Link"
     url: /Extralinks/

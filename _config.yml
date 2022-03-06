@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Arya.com
+title: Home
 email: Sonei363@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -35,20 +35,35 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 
 # Site Author
-Ryu:
-  name        : "Ryu"
-  bio         : "I am a Fighter not developer."
-  avatar      : "/assets/images/Ryu.jpg"
-  location: Japen
+Arya:
+  name        : "Arya"
+  bio         : "Just a normal student."
+  avatar      : "/assets/images/MclarenP1.jpg"
+  location: Iran-Nashapour
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:Sonei363@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       url: "https://thewhip.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://twitter.com/extravagantman"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://twitter.com/extravagantman"
+    - label: "Whatsapp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://twitter.com/extravagantman"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://twitter.com/extravagantman"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
       url: "https://twitter.com/extravagantman"
       
 plugins:

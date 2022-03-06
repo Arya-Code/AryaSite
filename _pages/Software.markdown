@@ -1,18 +1,28 @@
 ---
 layout: single
-title: Software
-permalink: /Software/
-author: Arya
+permalink: /Projects/
+author: Prof.Mousavi
 author_profile: true
 ---
+# Projects
 
 
-V. Elvira, L. Martino, D. Luengo, and M. Bugallo, "Generalized Multiple Importance Sampling", submitted, December, 2016. [application/pdf] arXiv [application/pdf] PDF Version  [application/pdf] MATLAB code (Section 8.1)  [application/pdf] MATLAB code (Section 8.2.1)  [application/pdf] MATLAB code (Section 8.2.2)  [application/pdf] MATLAB code (Appendix)  
+**2018**
 
-V. Elvira, L. Martino, D. Luengo, and M. Bugallo, "Improving Population Monte Carlo: Alternative Weighting and Resampling Schemes", Signal Processing, Vol. 131, pp. 77-91, February, 2017. [application/pdf] arXiv [application/pdf] PDF Version  [application/pdf] MATLAB code  
+A Monocular Video Depth Estimation using Smoothed Motion Parallax	
 
-L. Martino, V. Elvira, D. Luengo, and J. Corander, "Layered Adaptive Importance Sampling", Statistics and Computing, pp. 1-15, 2016. [application/pdf] arXiv [application/pdf] PDF Version  [application/pdf] MATLAB code (iterative) [application/pdf] MATLAB code (non iterative) [application/pdf] PDF report of MATLAB code   
-        
-L. Martino, V. Elvira, D. Luengo, and J. Corander, and F. Louzada "Orthogonal parallel MCMC methods for sampling and optimization", Digital Signal Processing, Vol. 58, pp. 64-84, November, 2016. [application/pdf] arXiv [application/pdf] PDF Version  [application/pdf] MATLAB code  
+**2017**
 
-L. Martino, J. Read, V. Elvira, and F. Louzada, "Cooperative Parallel Particle Filters for On-line Model Selection and Applications to Urban Mobility", Digiatal Signal Processing, Volume 60, pp. 172–185, January, 2017. [application/pdf] arXiv [application/pdf] PDF Version  [application/pdf] MATLAB code  
+Depth Estimation in Moving Train Video based on Kalman Filtering
+	
+**2016**
+
+Online Gaussian Mixture Models for Video Background Estimation	
+
+Video Event Understanding using Natural Language Descriptions
+	
+**2015**
+
+Heart Valve Path Tracking in the Echocardiography Videos
+	
+Pupil Image Segmentation using Information Potential with Kernel FCM based on Local Information	
